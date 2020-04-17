@@ -1,0 +1,38 @@
+/*extra small device*/
+
+@media(max-width:575px){
+    
+    
+    
+.navbar-light .navbar-nav .nav-link {
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+	padding-bottom: 10px;
+}
+#banner {
+	padding: 100px 0px;
+}   
+
+.banner-topic h2 {
+	font-size: 50px;
+	padding-left: 176px;
+}
+.btn:not(:disabled):not(.disabled) {
+	margin-left: 50%;
+	transform: translateX(-50%);
+}    
+
+.offer-brief1 {
+	margin-bottom: 20px;
+}
+.offer-brief2 {
+	margin-bottom: 20px;
+}   
+.offer-brief3 {
+	margin-bottom: 20px;
+}
+.offer-brief4 {
+	margin-bottom: 20px;
+}
+}
